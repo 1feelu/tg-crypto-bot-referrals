@@ -71,7 +71,3 @@ Feel free to fork this repository and submit pull requests. Suggestions and feed
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-### 👀 Screenshots and Demonstrations
-
-(Add screenshots or GIFs showcasing the bot in action.)
