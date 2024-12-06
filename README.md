@@ -26,8 +26,8 @@ A feature-rich Telegram bot designed to implement and manage a referral system w
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/referal-bot.git
-   cd referal-bot
+   git clone https://github.com/Card1nal-lzt/tg-crypto-bot-referrals.git
+   cd tg-crypto-bot-referrals
    ```
 
 2. Install dependencies:
